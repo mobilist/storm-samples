@@ -60,7 +60,7 @@
     <dependency>
 		<groupId>org.springframework.integration</groupId>
 		<artifactId>spring-integration-xmpp</artifactId>
-		<version>4.1.0.RELEASE</version>
+		<version>5.2.0.RELEASE</version>
 	</dependency>    
   </dependencies>
   
@@ -80,7 +80,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass />
+              <mainClass/>
             </manifest>
           </archive>
         </configuration>
